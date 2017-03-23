@@ -1,5 +1,5 @@
 {
-    "name": "mtdowling/supervisor-event",
+    "name": "millerp/supervisor-event",
     "type": "component",
     "description": "Wires callback functions to Supervisor events",
     "keywords": ["supervisor", "supervisord", "event"],
